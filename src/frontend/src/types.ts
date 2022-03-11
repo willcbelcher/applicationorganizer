@@ -1,0 +1,1 @@
+/* Centralized type store used throughout the application */
